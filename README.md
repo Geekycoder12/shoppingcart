@@ -1,4 +1,4 @@
-# CMS Shopping Cart : E-commerce Application
+# Shopping Cart
 A web app using Spring Boot that can perform the basic e-commerce functionality.
 
 Features
@@ -64,8 +64,5 @@ Project Setup
 - Run the app using ``mvn spring-boot:start`` from project root directory.
 - Browse http://localhost:8080/ or http://localhost:8080/admin/pages
 
-## Project Demo Video
-
-<a href="https://youtu.be/YW9-ykPaTeE"><img src="https://img.youtube.com/vi/YW9-ykPaTeE/0.jpg" width="500"/></a>
 
 ** I made this apps as part of the course https://www.udemy.com/course/spring-and-spring-boot-learn-by-bulding-projects
